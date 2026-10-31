@@ -1,0 +1,5 @@
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Drivers/BSP/BUS/bsp_bus.c:28:9:bsp_i2c2_init	8	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Drivers/BSP/BUS/bsp_bus.c:40:9:bsp_i2c2_deinit	8	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Drivers/BSP/BUS/bsp_bus.c:56:9:bsp_i2c2_write_reg16	24	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Drivers/BSP/BUS/bsp_bus.c:66:9:bsp_i2c2_read_reg16	24	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Drivers/BSP/BUS/bsp_bus.c:76:9:bsp_bus_get_tick	0	static

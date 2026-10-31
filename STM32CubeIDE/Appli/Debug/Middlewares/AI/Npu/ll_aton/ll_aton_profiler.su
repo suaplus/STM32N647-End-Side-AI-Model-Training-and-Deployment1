@@ -1,0 +1,4 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/ll_aton/ll_aton_NN_interface.h:564:32:LL_Buffer_addr_base	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/ll_aton/ll_aton_NN_interface.h:574:32:LL_Buffer_addr_start	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/ll_aton/ll_aton_NN_interface.h:589:26:LL_Buffer_len	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/ll_aton/ll_aton_profiler.c:38:5:LL_ATON_LIB_ConvInteger	216	static

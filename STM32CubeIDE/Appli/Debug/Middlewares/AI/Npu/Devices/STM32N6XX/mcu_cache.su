@@ -1,0 +1,8 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:3:5:mcu_cache_enable	24	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:9:5:mcu_cache_disable	24	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:15:5:mcu_cache_invalidate	24	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:23:5:mcu_cache_clean	24	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:31:5:mcu_cache_clean_invalidate	24	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:39:5:mcu_cache_invalidate_range	32	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:47:5:mcu_cache_clean_range	32	static,ignoring_inline_asm
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/AI/Npu/Devices/STM32N6XX/mcu_cache.c:53:6:mcu_cache_clean_invalidate_range	32	static,ignoring_inline_asm

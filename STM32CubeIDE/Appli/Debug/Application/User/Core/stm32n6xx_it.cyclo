@@ -1,0 +1,12 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:70:6:NMI_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:85:6:HardFault_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:100:6:MemManage_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:115:6:BusFault_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:130:6:UsageFault_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:145:6:SecureFault_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:160:6:SVC_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:173:6:DebugMon_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:186:6:PendSV_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:199:6:SysTick_Handler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:220:6:DCMIPP_IRQHandler	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/stm32n6xx_it.c:232:6:CSI_IRQHandler	1

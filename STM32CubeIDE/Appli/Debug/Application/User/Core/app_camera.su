@@ -1,0 +1,9 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:34:6:app_camera_init	48	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:70:6:app_camera_display_pipe_start	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:75:6:app_camera_nn_pipe_start	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:80:6:app_camera_isp_update	8	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:85:13:app_camera_display_pipe_init	56	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:100:13:app_camera_nn_pipe_init	56	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:115:19:MX_DCMIPP_ClockConfig	416	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:133:5:CMW_CAMERA_PIPE_VsyncEventCallback	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app_camera.c:153:5:CMW_CAMERA_PIPE_FrameEventCallback	16	static

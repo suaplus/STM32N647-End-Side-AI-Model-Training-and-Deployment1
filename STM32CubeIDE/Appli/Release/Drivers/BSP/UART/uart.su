@@ -1,0 +1,2 @@
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Drivers/BSP/UART/uart.c:40:6:uart_init	0	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Drivers/BSP/UART/uart.c:103:5:__io_putchar	16	static

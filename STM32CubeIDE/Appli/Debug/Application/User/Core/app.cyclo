@@ -1,0 +1,4 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app.c:34:6:app_run	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app.c:127:13:app_camera_nn_pipe_frame_cb	1
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app.c:132:17:app_get_array_max_index	3
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/002_My_Fire_AI_Image_Classification/Appli/Core/Src/app.c:148:13:app_display_network_output	2

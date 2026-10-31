@@ -1,0 +1,16 @@
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:322:16:IMX335_WriteTable	32	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:347:16:IMX335_Delay	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:365:16:IMX335_ReadRegWrap	40	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:380:16:IMX335_WriteRegWrap	40	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:399:9:IMX335_RegisterBusIO	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:440:9:IMX335_Init	32	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:483:9:IMX335_Start	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:503:9:IMX335_DeInit	16	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:520:9:IMX335_ReadID	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:548:9:IMX335_GetCapabilities	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:586:9:IMX335_SetGain	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:631:9:IMX335_SetExposure	32	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:684:9:IMX335_SetFrequency	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:738:9:IMX335_SetFramerate	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:785:9:IMX335_MirrorFlipConfig	24	static
+D:/STM32_PRO/STM32_N647/SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Middlewares/STM32_MW_CAMERA/sensors/imx335/imx335.c:827:9:IMX335_SetTestPattern	24	static

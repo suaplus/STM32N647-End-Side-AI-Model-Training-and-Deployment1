@@ -1,0 +1,4 @@
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app_lcd.c:30:6:app_lcd_init	48	static,ignoring_inline_asm
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app_lcd.c:66:10:app_lcd_get_bg_buffer	0	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app_lcd.c:71:6:app_lcd_draw_area_update	8	static
+C:/15-STM32N647_AI/04_SOP_Gateway_Project/02_STM32N647_MCU/SoftwarePackage/Projects/99_Applications/03_My_Fire_Smoke_AI_Image_Classification_v2/Appli/Core/Src/app_lcd.c:76:6:app_lcd_draw_area_commit	8	static,ignoring_inline_asm
